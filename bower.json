@@ -6,11 +6,10 @@
     "bootstrap"
   ],
   "authors": [
-    "paqmind <info@paqmind.com>"
+    "paqmind"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
