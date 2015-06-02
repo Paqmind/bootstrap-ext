@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-ext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LESS extensions for Bootstrap",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Paqmind/bootstrap-ext/issues"
   },
-  "homepage": "https://github.com/Paqmind/bootstrap-ext"
+  "homepage": "https://github.com/Paqmind/bootstrap-ext",
+  "peerDependencies": {
+    "bootstrap": "3.x"
+  }
 }
