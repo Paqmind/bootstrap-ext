@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-ext",
+  "version": "0.1.0",
+  "description": "LESS extensions for Bootstrap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Paqmind/bootstrap-ext.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "extension"
+  ],
+  "author": "Paqmind <info@paqmind.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paqmind/bootstrap-ext/issues"
+  },
+  "homepage": "https://github.com/Paqmind/bootstrap-ext"
+}
