@@ -1,20 +1,16 @@
-/*******************************************************************************
-  BOOTSTRAP-EXT. BADGES
-*******************************************************************************/
-
 .badge {
-    font-weight: normal;
-    font-size: 0.85em;
+  font-weight: normal;
+  font-size: 0.85em;
 }
 
 .badge-variant(@color) {
-    background-color: @color;
-    &[href] {
-        &:hover,
-        &:focus {
-            background-color: darken(@color, 10%);
-        }
+  background-color: @color;
+  &[href] {
+    &:hover,
+    &:focus {
+      background-color: darken(@color, 10%);
     }
+  }
 }
 
 /*
@@ -49,5 +45,5 @@ Colors
 .badge-white { .badge-variant(@white); }
 
 .badge-yellow-light, .badge-gray-lighter, .badge-white {
-    color: @black;
+  color: @black;
 }
